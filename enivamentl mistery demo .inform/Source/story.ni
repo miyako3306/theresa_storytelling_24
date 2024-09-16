@@ -1,4 +1,4 @@
-"the enivamentl mistery demo " by theresa 
+"Were Dad? demo " by theresa 
 
 The Playroom is a room. The description of the room is "a colorfull room a door to the hall way is to east Dad is in the kicten".
 
